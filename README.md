@@ -1,4 +1,3 @@
 # SoftUni_Homeworks
 
-Hello, ala bala
-Can you undurstand what are you doing?
+This repository contents some of the homeworks from Programming Basic and Java Fundamentals courses.
