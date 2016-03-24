@@ -8,6 +8,7 @@ public class Problem1SortArrayOfNumbers {
 
         System.out.println("Enter how many numbers you want to enter:");
         int n = input.nextInt();
+        input.nextLine();
         System.out.println("Enter the numbers:");
         String[] in = input.nextLine().split(" ");
         Integer[] numbers = new Integer[n];
